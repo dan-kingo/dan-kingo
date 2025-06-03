@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dan-kingo" alt="dan-kingo" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://dan-kingo.netlify.app](https://dan-kingo.netlify.app)
+- 👨‍💻 All of my projects are available at [https://danieldejen.vercel.app](https://danieldejen.vercel.app)
 
 - 💬 Ask me about **react, node.js, express.js and more**
 
